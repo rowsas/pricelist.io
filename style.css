@@ -48,6 +48,7 @@ body {
 
 .button {
   background-color: green;
+  color: white;
   width: 100%;
   border: none;
   border-radius: 3px;
@@ -63,6 +64,7 @@ body {
 
 .most {
   background-color: green;
+  color: white;
 
 text-align: center;
 position: absolute;
